@@ -1,6 +1,6 @@
-# craiglist-python-scrapper
+# craiglist-python-scraper
 
-# An easy to use Python scrapper to send you updates on the new stuff on Craiglist.
+# An easy to use Python scraper to send you updates on the new stuff on Craiglist.
 
 ‼️ I wrote all the dependencies I used in the file search.py in the top of the page.You'll need t reload them on your machine.
 
